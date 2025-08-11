@@ -72,8 +72,8 @@ The aim is to practice front-end web development skills, responsive design, and 
 ---
 
 ## 👨‍💻 Author
-**Sumit Mishra**  
-Student at United College of Engineering and Research, Naini, Prayagraj
+**Ayush Mishra**  
+Student at United College of Engineering and Research, Naini, Prayagraj 
 
 ---
 
